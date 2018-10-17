@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCSharpTest.GreetingsToEarthWebsite", "CroweCSharpTest\CroweCSharpTest.GreetingsToEarthWebsite.csproj", "{69CA2233-F268-4EC2-8188-1D3A2CA0D766}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCSharpTest.GreetingsToEarthWebsite", "CroweCSharpTest.GreetingsToEarth\CroweCSharpTest.GreetingsToEarthWebsite.csproj", "{69CA2233-F268-4EC2-8188-1D3A2CA0D766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCSharpTest.GreetingsToEarthWebsite.Tests", "CroweCSharpTest.Tests\CroweCSharpTest.GreetingsToEarthWebsite.Tests.csproj", "{D8F8CECF-FD0B-45E3-9C51-E33EFAC5CCB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCSharpTest.GreetingsToEarthWebsite.Tests", "CroweCSharpTest.GreetingsToEarth.Tests\CroweCSharpTest.GreetingsToEarthWebsite.Tests.csproj", "{D8F8CECF-FD0B-45E3-9C51-E33EFAC5CCB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

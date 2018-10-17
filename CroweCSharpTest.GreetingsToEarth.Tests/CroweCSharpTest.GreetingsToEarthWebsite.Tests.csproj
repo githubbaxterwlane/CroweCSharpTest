@@ -99,7 +99,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CroweCSharpTest\CroweCSharpTest.GreetingsToEarthWebsite.csproj">
+    <ProjectReference Include="..\CroweCSharpTest.GreetingsToEarth\CroweCSharpTest.GreetingsToEarthWebsite.csproj">
       <Project>{69CA2233-F268-4EC2-8188-1D3A2CA0D766}</Project>
       <Name>CroweCSharpTest.GreetingsToEarthWebsite</Name>
     </ProjectReference>
